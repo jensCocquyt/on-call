@@ -1,0 +1,6 @@
+# Group files by review category in Linear Reviews
+test/** review-test
+docs/** review-documentation
+AGENTS.md review-agent-guidance
+CLAUDE.md review-agent-guidance
+package-lock.json linguist-generated=true
